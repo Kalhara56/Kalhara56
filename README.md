@@ -52,13 +52,13 @@ const Kalhara = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nirmalgnpk&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kalhara56&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirmalgnpk&layout=compact&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalhara56&layout=compact&theme=radical&hide_border=true" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=nirmalgnpk&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Kalhara56&theme=radical&hide_border=true" />
 </div>
 
 ---
@@ -66,7 +66,7 @@ const Kalhara = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nirmalgnpk&theme=radical&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Kalhara56&theme=radical&no-frame=true&row=1&column=7" />
 </div>
 
 ---
@@ -74,7 +74,7 @@ const Kalhara = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nirmalgnpk&theme=redical&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kalhara56&theme=redical&hide_border=true" />
 </div>
 
 ---
@@ -96,9 +96,8 @@ const Kalhara = {
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gnpkaveeshanirmal@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nirmalgnpk)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nirmalgnpk)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:himashakalhara230@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://https://github.com/Kalhara56)
 
 </div>
 
