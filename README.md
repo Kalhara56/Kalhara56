@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Kaveesha Nirmal
+# 👋 Hi, I'm Himasha Kalhara
 
 ### 🎨 Graphic Designer · 💻 Aspiring Full Stack Developer
 
@@ -20,9 +20,9 @@
 
 ```javascript
 const kaveesha = {
-  name     : "Kaveesha Nirmal",
+  name     : "Himasha Kalhara",
   role     : "Graphic Designer & Full Stack Enthusiast",
-  email    : "gnpkaveeshanirmal@gmail.com",
+  email    : "himashakalhara230@gmail.com",
   learning : ["Java", "Full Stack Development"],
   passion  : ["Branding", "Digital Art", "Creative Storytelling"],
   tools    : ["Photoshop", "Illustrator", "Canva"],
@@ -31,7 +31,7 @@ const kaveesha = {
 ```
 
 - 🌱 Currently learning **Java**
-- 👨‍💻 All my projects at **[Kaveesha Nirmal](https://github.com/nirmalgnpk)**
+- 👨‍💻 All my projects at **[Himasha Kalhara](https://github.com/Kalhara56)**
 - 👀 Interested in **Full Stack Development** & **Graphic Design**
 - 🎨 Skilled in **Photoshop, Illustrator, Canva** and more
 - 💡 Passionate about **branding, digital art & creative storytelling**
