@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Himasha Kalhara
 
-### 🎨 Graphic Designer · 💻 Aspiring Full Stack Developer
+### 💻 Aspiring Full Stack Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=500&lines=Graphic+Designer+%F0%9F%8E%A8;Full+Stack+Enthusiast+%F0%9F%9A%80;Currently+Learning+Java+%E2%98%95;Open+to+Collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
 
@@ -19,9 +19,9 @@
 ## 👨‍💻 About Me
 
 ```javascript
-const kaveesha = {
+const Kalhara = {
   name     : "Himasha Kalhara",
-  role     : "Graphic Designer & Full Stack Enthusiast",
+  role     : " Full Stack Enthusiast",
   email    : "himashakalhara230@gmail.com",
   learning : ["Java", "Full Stack Development"],
   passion  : ["Branding", "Digital Art", "Creative Storytelling"],
@@ -35,7 +35,7 @@ const kaveesha = {
 - 👀 Interested in **Full Stack Development** & **Graphic Design**
 - 🎨 Skilled in **Photoshop, Illustrator, Canva** and more
 - 💡 Passionate about **branding, digital art & creative storytelling**
-- 📫 Reach me: **gnpkaveeshanirmal@gmail.com**
+- 📫 Reach me: **himashakalhara230@gmail.com**
 
 <br clear="right"/>
 
